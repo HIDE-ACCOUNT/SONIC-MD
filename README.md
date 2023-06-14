@@ -15,7 +15,7 @@
 
 
   
-  ## 🐝 KALINDU-MD TEAM *[ Since 2023 ]*
+  ## 🐝 KALINDU-MD TEAM
 
 **[KALIDU GAWESHANA](https://github.com/KALINDU-LK)**</br>Founder & Developer</br> 🦚
 
@@ -23,3 +23,23 @@
 
  
    
+ ## 🐝 KALINDU-MD TEAM *[ Since 2023 ]* :
+
+ 
+
+  <div align="center">
+
+  
+
+| [![Kalidu Gaweshana](https://github.com/KALINDU-LK.png?size=200)](https://github.com/KALINDU-LK) | [![MR Hansamala](https://github.com/mrhansamala.png?size=200)](https://github.com/mrhansamala) |
+
+|----|----|
+
+| [Kalidu Gaweshana](https://github.com/KALINDU-LK) | [MR Hansamala](https://github.com/mrhansamala) | 
+
+|  𝗠𝗔𝗜𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 | 𝗕𝗜𝗚 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 |
+
+  
+
+  </div>
+
