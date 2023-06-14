@@ -9,11 +9,17 @@
     <img src="https://telegra.ph/file/847b54dd9c025e6d02c3c.jpg">
   </a>
   
-# KALINDU MD Bot
+# KALINDU MD BOT
 
-> KALINDU MD Bot is a multipurpose WhatsApp bot using library!
->
->
+
+
+
+  
+  ## 🐝 KALINDU-MD TEAM *[ Since 2023 ]*
+
+**[KALIDU GAWESHANA](https://github.com/KALINDU-LK)**</br>Founder & Developer</br> 🦚
+
+**[HANSAMAALA](https://github.com/mrhansamala)**</br>Supporter 🖤
 
  
    
