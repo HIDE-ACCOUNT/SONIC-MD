@@ -2,7 +2,7 @@
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+KALINDU+WA+BOT+REPO.;CREATED+BY+MR+KALINDU+OFC;THIS+IS+A+SIMPLE+BOT;AND+INCLUDE+MORE+FEATURES;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+KALINDU+WA+BOT+REPO.;CREATED+BY+MR+KALINDU+OFC...💃;THIS+IS+A+SIMPLE+BOT;AND+INCLUDE+MORE+FEATURES;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛...+💚💜)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://github.com/">
